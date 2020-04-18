@@ -11,7 +11,7 @@ This script is only for educational and I m not responsable if you use it for ma
 
 In Arduino IDE copy (or modify) script:
 
-
+!
 
 #include "DigiKeyboard.h"
 void setup() {
@@ -41,3 +41,6 @@ void loop() {
 
  
 }
+
+
+!
